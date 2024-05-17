@@ -1,4 +1,4 @@
-**##Online Retail Sales Data Analysis**
+##Online Retail Sales Data Analysis
 
 **Introduction**
 Welcome to the Online Retail Sales Data Analysis and Cleaning project. This project involves working with a dataset that contains records of an online retail store's sales transactions. The dataset is comprehensive, covering various aspects of sales such as invoice numbers, product descriptions, quantities sold, unit prices, customer information, and the countries from which the purchases were made.The dataset features a variety of products, primarily home decor and gift items.
