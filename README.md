@@ -1,4 +1,4 @@
-##Online Retail Sales Data Analysis
+**ONLINE RETAIL SALES DATA ANALYSIS**
 
 **Introduction**
 Welcome to the Online Retail Sales Data Analysis and Cleaning project. This project involves working with a dataset that contains records of an online retail store's sales transactions. The dataset is comprehensive, covering various aspects of sales such as invoice numbers, product descriptions, quantities sold, unit prices, customer information, and the countries from which the purchases were made.The dataset features a variety of products, primarily home decor and gift items.
@@ -16,6 +16,14 @@ CustomerID: Unique identifier for each customer.
 Country: Country from which the customer made the purchase.
 
 **Data Cleaning in Excel**
+Initial data inspection.
+Handling missing values.
+Use the "remove duplicates" feature to remove duplicate rows.
+Checking and correcting data types of each column.
+Removing rows which has quantity value less than or equal to 0.
+Removing rows which has unit price less than or equal to 0.
+Created a new column for revenue (Revenue=quantity*unitprice)
+
 
 
 
