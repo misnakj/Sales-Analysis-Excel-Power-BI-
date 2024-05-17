@@ -7,21 +7,36 @@ Welcome to the Online Retail Sales Data Analysis and Cleaning project. This proj
 The dataset includes the following columns:
 
 InvoiceNo: Unique identifier for each transaction.
+
 StockCode: Unique code assigned to each product.
+
 Description: Detailed description of the products.
+
 Quantity: Number of units sold per transaction.
+
 InvoiceDate: Date and time when the transaction occurred.
+
 UnitPrice: Price per unit of the product.
+
 CustomerID: Unique identifier for each customer.
+
 Country: Country from which the customer made the purchase.
 
+
 **Data Cleaning in Excel**
+
 Initial data inspection.
+
 Handling missing values.
+
 Use the "remove duplicates" feature to remove duplicate rows.
+
 Checking and correcting data types of each column.
+
 Removing rows which has quantity value less than or equal to 0.
+
 Removing rows which has unit price less than or equal to 0.
+
 Created a new column for revenue (Revenue=quantity*unitprice)
 
 
